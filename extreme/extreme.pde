@@ -7,7 +7,7 @@ Using:
 Lee Byron's Mesh Lib [http://www.leebyron.com/else/mesh/]  (for the Convex Hull)
 V3G's BlobDetection Lib [http://www.v3ga.net/processing/BlobDetection/index-page-home.html] (for blob detection)
 Andreas Schlegel's ControlP5 lib [http://www.sojamo.de/libraries/controlP5/#about] (for GUI) 
-TOXIX's Libs [http://toxiclibs.org/] ( for ... ? !!? stuff )
+TOXIC's Libs [http://toxiclibs.org/] ( for doing all kinds of geometric stuff after we get the points  )
 */
 
 import megamu.mesh.*;
